@@ -1,0 +1,5 @@
+nombreAlumno = input ("Ingrese su nombre de pila: ") 
+apellidoAlumno = input ("Ingrese su apellido: ") 
+print("Bienvenido a Aprendé Programando Virtual" + " " + nombreAlumno + " "  + apellidoAlumno) 
+edadAlumno = input ("Ingrese su edad expresada en letras: ") 
+print ("Hola, soy" + " " + nombreAlumno + " " + apellidoAlumno + " " "y tengo" " " + edadAlumno + " " + "años") 

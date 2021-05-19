@@ -1,0 +1,22 @@
+la oficina mide 2mt x 1mt 
+
+
+1. Takeoff
+2. Forward 50
+3. Ccw 90
+4. Forward 30
+5. Ccw 90
+6. Forward 50
+7. Ccw 90
+8. Forward 30
+9. Ccw 90
+9. land
+
+
+
+1. Takeoff 
+2. Forward 50
+3. backward 50
+4. land
+
+Toda la lista de comandos de los drones tello en "https://dl-cdn.ryzerobotics.com/downloads/Tello/Tello%20SDK%202.0%20User%20Guide.pdf"
